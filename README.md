@@ -33,7 +33,7 @@
   <img align="center" src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=black" alt="Git" height="30" width="80" />
  </a>
    <a href="#" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="30" width="80" />
+  <img align="center" src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="30" width="100" />
  </a>
  
  <br>

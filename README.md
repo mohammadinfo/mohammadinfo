@@ -32,12 +32,15 @@
  <a href="#" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=black" alt="Dart" height="30" width="90" />
  </a>
+ <br>
  <a href="#" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=black" alt="Flutter" height="30" width="100" />
  </a>
+ <br>
   <a href="#" target="_blank">
   <img align="center" src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=black" alt="Git" height="30" width="80" />
  </a>
+ <br>
    <a href="#" target="_blank">
   <img align="center" src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="30" width="100" />
  </a>

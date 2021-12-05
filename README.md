@@ -19,6 +19,9 @@
 <a href="https://instagram.com/mohammad.ruiner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad.ruiner" height="30" width="40" /></a>
 </p>
 
+
+
+<h3 align="left">Languages and Tools:</h3>
  <a href="#" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=black" alt="Dart" height="30" width="90" />
  </a>
@@ -28,11 +31,13 @@
   <a href="#" target="_blank">
   <img align="center" src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=black" alt="Git" height="30" width="80" />
  </a>
- 
+   <a href="#" target="_blank">
+  <img align="center" src=" https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=black" alt="Git" height="30" width="80" />
+ </a>
  
 
 
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadruin3r&show_icons=true&locale=en&layout=compact" alt="mohammadruin3r" /></p>

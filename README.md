@@ -39,8 +39,3 @@
    <a href="#" target="_blank">
   <img align="center" src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="30" width="100" />
  </a>
- 
- <br>
- <br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadruin3r&show_icons=true&locale=en&layout=compact" alt="mohammadruin3r" /></p>

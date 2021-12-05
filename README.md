@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hosseini</h1>
-<h3 align="center">A teacher and Mobile Programming with 2-year experience in mobile development (Flutter)</h3>
+<h3 align="center">A teacher and Flutter Developer with 2-year experience</h3>
 
 - 🔭 I'm currently working on **Flutter and Dart**
 
@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
 - 🤝 I'm teaching other [Flutter students](https://toplearn.com/masters/mohammadinfo)
+
+- ⚡  Fun fact: I love reading & podcasts
 
 - 💬 Ask me about **Anything!**
 

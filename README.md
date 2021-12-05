@@ -10,9 +10,9 @@
 
 - 🤝 I'm teaching other [Flutter students](https://toplearn.com/masters/mohammadinfo)
 
-- ⚡  Fun fact: I love reading & podcasts
+- ⚡ Fun fact: I love reading & podcasts
 
-- 💬 Ask me about **Anything!**
+- 💬 Ask me about Anything!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

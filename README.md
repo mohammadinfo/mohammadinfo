@@ -2,17 +2,21 @@
 <h3 align="center">A teacher and Flutter Developer with 2-year experience</h3>
 
 
-- 🔭 I'm currently working on **Flutter and Dart**
+- 🔭 I'm currently working on Flutter and Dart
 
-- 🌱 I’m currently learning **Clean Architecture & TDD**
+- 🌱 I’m currently learning Clean Architecture & TDD
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on Flutter Projects
+
+- 🎓 I'm a software engineer major at Montazeri University
 
 - 🤝 I'm teaching other [Flutter students](https://toplearn.com/masters/mohammadinfo)
 
 - ⚡ Fun fact: I love reading & podcasts
 
 - 💬 Ask me about Anything!
+
+- 📝 [Download my CV](https://github.com/MohammadRuin3r/MohammadRuin3r/raw/master/Mohammad_Hosseini_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

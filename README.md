@@ -26,7 +26,7 @@
   <img align="center" src="https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=black" alt="Flutter" height="30" width="100" />
  </a>
   <a href="#" target="_blank">
-  <img align="center" src=" https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=black" alt="Git" height="30" width="100" />
+  <img align="center" src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=black" alt="Git" height="30" width="100" />
  </a>
  
  

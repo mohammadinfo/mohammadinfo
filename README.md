@@ -20,15 +20,7 @@
 
 - 📝 [Download my CV](https://github.com/MohammadRuin3r/MohammadRuin3r/raw/master/Mohammad_Hosseini_CV.pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammadruin3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadruin3r" height="30" width="40" /></a>
-<a href="https://instagram.com/mohammad.ruiner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad.ruiner" height="30" width="40" /></a>
-</p>
 
-
-
-<h3 align="left">Languages and Tools:</h3>
  <a href="#" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=black" alt="Dart" height="30" width="90" />
  </a>
@@ -39,3 +31,9 @@
  </a>
  <br>
  <br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohammadruin3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadruin3r" height="30" width="40" /></a>
+<a href="https://instagram.com/mohammad.ruiner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad.ruiner" height="30" width="40" /></a>
+</p>

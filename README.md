@@ -1,6 +1,5 @@
 
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
-
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <h1 align="center">Hi 👋, I'm Mohammad Hosseini</h1>
 <h3 align="center">A Flutter Developer with 2-year experience</h3>

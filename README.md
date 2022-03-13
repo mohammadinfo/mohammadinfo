@@ -1,5 +1,7 @@
 
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<div align="center">
+<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Mohammad Hosseini</h1>
 <h3 align="center">A Flutter Developer with 2-year experience</h3>
